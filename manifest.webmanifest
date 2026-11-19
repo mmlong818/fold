@@ -1,0 +1,9 @@
+{
+  "name": "折一折 · 3D 折纸",
+  "short_name": "折一折",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f6f0e3",
+  "theme_color": "#f6f0e3",
+  "icons": [{ "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
